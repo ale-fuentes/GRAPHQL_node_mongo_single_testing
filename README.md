@@ -11,12 +11,19 @@
 
 **Pre Requeriments**
 * Installed [nodeJs][link-nodejs]
-* Install [mongoDB][link-mongodb]
+* Install [MongoDB][link-mongodb]
 
 **Steps**
 1. Clone project inner folder
 1. Started MongoDB
+1. Install dependencies of project
+    ```bash
+    npm i
+    ```
 1. Execute project
+    ```bash
+    npm start
+    ```
 
 
 
